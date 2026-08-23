@@ -6,15 +6,10 @@
 # ==========================================================
 
 /ip firewall address-list
-add list=MELOLO address=146.75.46.73 comment="p19-novel-sign-sg.fizzopic.org AS54113"
-add list=MELOLO address=199.232.114.73 comment="p19-novel-sign.fizzopic.org AS54113"
-add list=MELOLO address=23.215.35.138 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.139 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.142 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.143 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.144 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.145 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.146 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=23.215.35.155 comment="v16-ml.melolostatic.com AS"
-add list=MELOLO address=23.215.35.156 comment="v16-ml.melolostatic.com AS20940"
-add list=MELOLO address=146.75.46.13 comment="v19-ml.melolostatic.com AS54113"
+add list=MELOLO address=199.232.114.73 comment="p19-novel-sign-sg.fizzopic.org AS54113"
+add list=MELOLO address=103.124.139.72 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=103.124.139.81 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=103.124.139.82 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=103.124.139.88 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=103.124.139.89 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=199.232.114.13 comment="v19-ml.melolostatic.com AS54113"
