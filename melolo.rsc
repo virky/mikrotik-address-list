@@ -6,8 +6,13 @@
 # ==========================================================
 
 /ip firewall address-list
-add list=MELOLO address=103.124.139.72 comment="v16-ml.melolostatic.com AS138089"
-add list=MELOLO address=103.124.139.80 comment="v16-ml.melolostatic.com AS138089"
-add list=MELOLO address=103.124.139.81 comment="v16-ml.melolostatic.com AS138089"
-add list=MELOLO address=103.124.139.82 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=184.87.193.68 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.70 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.71 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.72 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.73 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.74 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.94 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.95 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=184.87.193.96 comment="v16-ml.melolostatic.com AS20940"
 add list=MELOLO address=199.232.114.13 comment="v19-ml.melolostatic.com AS54113"
