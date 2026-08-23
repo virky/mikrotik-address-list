@@ -10,4 +10,4 @@ add list=MELOLO address=140.248.130.73 comment="p19-novel-sign-sg.fizzopic.org A
 add list=MELOLO address=146.75.46.73 comment="p19-novel-sign.fizzopic.org AS54113"
 add list=MELOLO address=103.124.139.74 comment="v16-ml.melolostatic.com AS138089"
 add list=MELOLO address=103.124.139.80 comment="v16-ml.melolostatic.com AS138089"
-add list=MELOLO address=140.248.130.13 comment="v19-ml.melolostatic.com AS54113"
+add list=MELOLO address=146.75.46.13 comment="v19-ml.melolostatic.com AS54113"
