@@ -158,3 +158,6 @@ add list=MELOLO address=103.124.139.88 comment="v16-ml.melolostatic.com AS138089
 add list=MELOLO address=103.124.139.75 comment="v16-ml.melolostatic.com AS138089"
 add list=MELOLO address=23.40.63.135 comment="v16-ml.melolostatic.com AS20940"
 add list=MELOLO address=23.40.63.138 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=23.221.50.26 comment="v16-ml.melolostatic.com AS20940"
+add list=MELOLO address=103.124.139.86 comment="v16-ml.melolostatic.com AS138089"
+add list=MELOLO address=103.124.139.91 comment="v16-ml.melolostatic.com AS138089"
