@@ -1,4 +1,4 @@
-domain,cname,ip,asn,prefix
+domain,cname,ip,asn,prefix,first_seen
 p19-novel-sign-sg.fizzopic.org,bytedance.map.fastly.net,199.232.114.73,AS54113,199.232.112.0/22
 v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,103.124.139.72,AS138089,103.124.139.0/24
 v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,103.124.139.74,AS138089,103.124.139.0/24
@@ -373,3 +373,8 @@ v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net
 v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,2.17.106.113,AS20940,2.17.106.0/24
 v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.46.16.183,AS20940,23.46.16.0/24
 v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.46.16.189,AS20940,23.46.16.0/24
+v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.44.5.186,AS20940,23.44.4.0/23,2026-08-25 07:20:25
+v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.44.5.193,AS20940,23.44.4.0/23,2026-08-25 07:20:25
+v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.44.5.202,AS20940,23.44.4.0/23,2026-08-25 07:20:25
+v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.44.5.194,AS20940,23.44.4.0/23,2026-08-25 07:20:25
+v16-ml.melolostatic.com,v16-ml.melolostatic.com.edgesuite.net;a1458.v.akamai.net,23.44.5.201,AS20940,23.44.4.0/23,2026-08-25 07:20:25
